@@ -1,0 +1,1 @@
+int convert_char_to_int(char *arr, int count);
